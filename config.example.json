@@ -1,0 +1,5 @@
+{
+  "esp32_url": "http://192.168.1.100",
+  "api_token": "replace-with-the-same-random-token-as-secrets-h",
+  "camera_index": 0
+}

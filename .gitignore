@@ -1,0 +1,7 @@
+.venv/
+.tools/
+__pycache__/
+*.pyc
+config.json
+firmware/trolley/secrets.h
+build/

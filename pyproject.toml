@@ -1,0 +1,10 @@
+[project]
+name = "smart-shopping-trolley"
+version = "0.1.0"
+description = "Laptop barcode scanner with ESP32-authoritative shopping cart"
+requires-python = ">=3.12,<3.13"
+dependencies = ["opencv-python>=4.10,<5", "pyzbar>=0.1.9,<0.2"]
+
+[tool.uv]
+package = false
+cache-dir = ".tools/uv-cache"
